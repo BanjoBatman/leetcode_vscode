@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "/media/tomas/46FC2B67FC2B508B/DevWorkspace/C#/vscode-linux/Leetcode/LeetCode_VisualStudioCode_Linux/LeetcodeTests/LeetcodeTests.csproj": {}
+  },
+  "projects": {
+    "/media/tomas/46FC2B67FC2B508B/DevWorkspace/C#/vscode-linux/Leetcode/LeetCode_VisualStudioCode_Linux/LeetCode/LeetCode.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/tomas/46FC2B67FC2B508B/DevWorkspace/C#/vscode-linux/Leetcode/LeetCode_VisualStudioCode_Linux/LeetCode/LeetCode.csproj",
+        "projectName": "LeetCode",
+        "projectPath": "/media/tomas/46FC2B67FC2B508B/DevWorkspace/C#/vscode-linux/Leetcode/LeetCode_VisualStudioCode_Linux/LeetCode/LeetCode.csproj",
+        "packagesPath": "/home/tomas/.nuget/packages/",
+        "outputPath": "/media/tomas/46FC2B67FC2B508B/DevWorkspace/C#/vscode-linux/Leetcode/LeetCode_VisualStudioCode_Linux/LeetCode/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/tomas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/media/tomas/46FC2B67FC2B508B/DevWorkspace/C#/vscode-linux/Leetcode/LeetCode_VisualStudioCode_Linux/LeetcodeTests/LeetcodeTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/tomas/46FC2B67FC2B508B/DevWorkspace/C#/vscode-linux/Leetcode/LeetCode_VisualStudioCode_Linux/LeetcodeTests/LeetcodeTests.csproj",
+        "projectName": "LeetcodeTests",
+        "projectPath": "/media/tomas/46FC2B67FC2B508B/DevWorkspace/C#/vscode-linux/Leetcode/LeetCode_VisualStudioCode_Linux/LeetcodeTests/LeetcodeTests.csproj",
+        "packagesPath": "/home/tomas/.nuget/packages/",
+        "outputPath": "/media/tomas/46FC2B67FC2B508B/DevWorkspace/C#/vscode-linux/Leetcode/LeetCode_VisualStudioCode_Linux/LeetcodeTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/tomas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/media/tomas/46FC2B67FC2B508B/DevWorkspace/C#/vscode-linux/Leetcode/LeetCode_VisualStudioCode_Linux/LeetCode/LeetCode.csproj": {
+                "projectPath": "/media/tomas/46FC2B67FC2B508B/DevWorkspace/C#/vscode-linux/Leetcode/LeetCode_VisualStudioCode_Linux/LeetCode/LeetCode.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "MSTest": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.11.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
