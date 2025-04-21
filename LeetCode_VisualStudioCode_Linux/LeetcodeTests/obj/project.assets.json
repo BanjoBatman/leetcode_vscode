@@ -1759,33 +1759,39 @@
     ]
   },
   "packageFolders": {
-    "/home/tomas/.nuget/packages/": {}
+    "C:\\Users\\elke0\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/tomas/46FC2B67FC2B508B/DevWorkspace/C#/vscode-linux/Leetcode/LeetCode_VisualStudioCode_Linux/LeetcodeTests/LeetcodeTests.csproj",
+      "projectUniqueName": "F:\\DevWorkspace\\C#\\vscode-linux\\Leetcode\\LeetCode_VisualStudioCode_Linux\\LeetcodeTests\\LeetcodeTests.csproj",
       "projectName": "LeetcodeTests",
-      "projectPath": "/media/tomas/46FC2B67FC2B508B/DevWorkspace/C#/vscode-linux/Leetcode/LeetCode_VisualStudioCode_Linux/LeetcodeTests/LeetcodeTests.csproj",
-      "packagesPath": "/home/tomas/.nuget/packages/",
-      "outputPath": "/media/tomas/46FC2B67FC2B508B/DevWorkspace/C#/vscode-linux/Leetcode/LeetCode_VisualStudioCode_Linux/LeetcodeTests/obj/",
+      "projectPath": "F:\\DevWorkspace\\C#\\vscode-linux\\Leetcode\\LeetCode_VisualStudioCode_Linux\\LeetcodeTests\\LeetcodeTests.csproj",
+      "packagesPath": "C:\\Users\\elke0\\.nuget\\packages\\",
+      "outputPath": "F:\\DevWorkspace\\C#\\vscode-linux\\Leetcode\\LeetCode_VisualStudioCode_Linux\\LeetcodeTests\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/home/tomas/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\elke0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "/usr/lib/dotnet/library-packs": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/media/tomas/46FC2B67FC2B508B/DevWorkspace/C#/vscode-linux/Leetcode/LeetCode_VisualStudioCode_Linux/LeetCode/LeetCode.csproj": {
-              "projectPath": "/media/tomas/46FC2B67FC2B508B/DevWorkspace/C#/vscode-linux/Leetcode/LeetCode_VisualStudioCode_Linux/LeetCode/LeetCode.csproj"
+            "F:\\DevWorkspace\\C#\\vscode-linux\\Leetcode\\LeetCode_VisualStudioCode_Linux\\LeetCode\\LeetCode.csproj": {
+              "projectPath": "F:\\DevWorkspace\\C#\\vscode-linux\\Leetcode\\LeetCode_VisualStudioCode_Linux\\LeetCode\\LeetCode.csproj"
             }
           }
         }
@@ -1831,7 +1837,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

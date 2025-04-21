@@ -1,3 +1,6 @@
 {
-    "dotnet.defaultSolution": "LeetCode.sln"
+    "dotnet.defaultSolution": "LeetCode.sln",
+    "[csharp]": {
+        "editor.defaultFormatter": "csharpier.csharpier-vscode"
+    }
 }
