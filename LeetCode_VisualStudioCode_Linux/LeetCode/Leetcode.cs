@@ -21,6 +21,23 @@ public class LeetCode
         return true;
     }
 
+
+    // Given the head of a linked list, reverse every k nodes as a group, leaving any trailing incomplete group unchanged
+    // Example 1:
+    // Input: head = [1,2,3,4,5], k = 2
+    // Output: [2,1,4,3,5]
+    // Example 2:
+    // Input: head = [1,2,3,4,5], k = 3
+    // Output: [3,2,1,4,5]
+    // Example 3:
+    // Input: head = [1,2,3,4,5], k = 1
+    // Output: [1,2,3,4,5]
+    // Example 4:
+    // Input: head = [1], k = 1 
+      public ListNode ReverseKGroup(ListNode head, int k) {
+       return head;
+    }
+
     // swap every two adjacent nodes in a linked list and return its head
     // Example 1:
     // Input: head = [1,2,3,4]
